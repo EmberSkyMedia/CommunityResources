@@ -1,0 +1,45 @@
+Key,Type,Desc,Español
+
+Resource/DisplayName/Oxygen,Text,,Oxígeno
+Resource/Abbreviation/O2,Text,,O2
+
+Resource/DisplayName/CarbonDioxide,Text,,Dióxido de Carbono
+Resource/Abbreviation/CO2,Text,,CO2
+
+Resource/DisplayName/Water,Text,,Agua
+Resource/Abbreviation/H2O,Text,,H2O
+
+Resource/DisplayName/WasteWater,Text,, Aguas residuales
+Resource/Abbreviation/WaH2O,Text,,AR_H2O
+
+Resource/DisplayName/Food,Text,, Aperitivos
+Resource/Abbreviation/FD,Text,,AP
+
+Resource/DisplayName/Waste,Text,,Desperdiciar
+Resource/Abbreviation/WST,Text,,DE
+
+Resource/DisplayName/Fertilizer,Text,,Fertilizante
+Resource/Abbreviation/Frt,Text,,Fert
+
+Resource/DisplayName/Hydrolox,Text,,Hidrolox
+Resource/Abbreviation/HO,Text,,HI
+
+Resource/DisplayName/Argon,Text,,Argón
+Resource/Abbreviation/Ar,Text,,Ar
+
+Resource/DisplayName/Lithium,Text,,Litio
+Resource/Abbreviation/Li,Text,,Li
+
+Resource/DisplayName/Kilver,Text,,Artefactos
+Resource/Abbreviation/KV,Text,,Art
+
+VAB/Tooltip/Food,Text,,Alimento
+VAB/Tooltip/Water,Text,,Agua
+VAB/Tooltip/Oxygen,Text,,Oxígeno
+VAB/Tooltip/CarbonDioxide,Text,,Dióxido de Carbono
+VAB/Tooltip/WasteWater,Text,,Aguas residuales
+VAB/Tooltip/Waste,Text,,Desperdiciar
+VAB/Tooltip/Fertilizer,Text,,Fertilizante
+VAB/Tooltip/Argon,Text,,Argón
+VAB/Tooltip/Lithium,Text,,Litio
+VAB/Tooltip/Lithium,Text,,Artefactos
