@@ -30,6 +30,9 @@ Resource/Abbreviation/Ar,Text,,Ar
 Resource/DisplayName/Lithium,Text,,Lithium
 Resource/Abbreviation/Li,Text,,Li
 
+Resource/DisplayName/Kilver,Text,,Artefacts
+Resource/Abbreviation/KV,Text,,Art
+
 VAB/Tooltip/Food,Text,,Nourriture
 VAB/Tooltip/Water,Text,,Eau
 VAB/Tooltip/Oxygen,Text,,Oxygène
