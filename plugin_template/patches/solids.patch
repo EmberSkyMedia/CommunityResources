@@ -92,3 +92,20 @@
 	resourceIconAssetAddress: "";
 	vfxFuelType: "SolidFuel";
 }
+
+@new("Kilver") // Added by PicoSpace Industries basically a valuable resource which can be returned for science points.
+:resources {
+    displayNameKey: "Resource/DisplayName/Kilver";
+    abbreviationKey: "Resource/Abbrevation/KV"; 
+    isTweakable: true; // TBD
+    isVisible: true; // TBD
+    massPerUnit: 1; // The mass per unit of resource
+    volumePerUnit: 5; // The volume per unit of resource
+    specificHeatCapacityPerUnit: 126; // The specific heat per unit of resource
+    flowMode: $NO_FLOW; // The flow behaviour of this resource
+    transferMode: $FM_NO_FLOW; // The transfer behaviour of this resource
+    costPerUnit: 5000; // Unused: How much one unit costs
+    NonStageable: true; // TBD
+    resourceIconAssetAddress: "Assets/CR_ICO_Kilver.png";
+    fxFuelType: "NoFuel"; // TBD
+}
